@@ -54,8 +54,3 @@ Public demonstrations should use fictional data. No real personal health records
 ## Project Status
 
 Active development. Feature documentation and installation instructions will be updated as the implementation evolves.
-
-## Author
-
-Ananya Bhattacharjee  
-Computer Science, University of Michigan – Ann Arbor
