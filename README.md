@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Regulation Tracker
 
-## Getting Started
+A web application designed to support self-reflection, focus tracking, and emotional regulation through structured check-ins and personal data insights.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Regulation Tracker explores how technology can make personal pattern tracking more accessible and intuitive.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The project focuses on creating a low-friction interface for recording experiences, reviewing trends, and understanding how daily routines relate to focus and emotional well-being.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Motivation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Traditional productivity applications often emphasize task completion rather than the factors that influence someone's ability to complete tasks.
 
-## Learn More
+Regulation Tracker explores a different approach: helping users understand their routines, energy, focus, and stress patterns through accessible software.
 
-To learn more about Next.js, take a look at the following resources:
+## Technology
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- React
+- JavaScript / TypeScript (confirm implementation)
+- Vercel deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Additional dependencies and storage technologies will be documented after the codebase review.
 
-## Deploy on Vercel
+## Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application is being developed around:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Daily self-reflection and check-ins
+- Focus and stress tracking
+- Historical entries
+- Visualization of personal trends
+- A responsive, accessible interface
+
+The implemented features and planned features will be documented separately.
+
+## Engineering Goals
+
+- Design reusable UI components
+- Manage form inputs and application state
+- Implement persistent data storage
+- Build interactive data visualizations
+- Validate user input and handle errors
+- Protect sensitive personal information
+- Test and deploy a production web application
+
+## Privacy and Responsible Design
+
+The project is intended for personal organization and self-reflection. It does not diagnose mental health conditions or provide medical treatment.
+
+Public demonstrations should use fictional data. No real personal health records are included in the repository.
+
+## Project Status
+
+Active development. Feature documentation and installation instructions will be updated as the implementation evolves.
+
+## Author
+
+Ananya Bhattacharjee  
+Computer Science, University of Michigan – Ann Arbor
